@@ -1,6 +1,6 @@
 # Currency_-SingleInstance_Batch
 
-server  https://github.com/pranshu469/Server_RandomNumberSingleInstance
+server  https://github.com/Kritikab9/Server_RandomNumberSingleInstance
 use this uri in batch program
 
 ojdbc14                                                   https://mvnrepository.com/artifact/ojdbc14/ojdbc14/10.2.0.3.0
